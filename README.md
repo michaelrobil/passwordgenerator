@@ -3,6 +3,9 @@
 ## About
 This web application is a password generator application generates a random password based on user-selected criteria.
 
+## Application ScreenShot
+![16-password-generator](https://user-images.githubusercontent.com/56613553/74095931-8f334e00-4abd-11ea-841c-bcdc556feff4.png)
+
 ## Contributors
 [Michael Robil](https://github.com/michaelrobil)
 
