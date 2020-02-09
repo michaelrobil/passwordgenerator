@@ -1,4 +1,4 @@
-# passwordgenerator
+# Password Generator
 
 ## About
 This web application is a password generator application generates a random password based on user-selected criteria.
